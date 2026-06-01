@@ -28,3 +28,4 @@ desktop.ini
 *.pth
 *.tar.gz
 Data/
+# sync repository state
