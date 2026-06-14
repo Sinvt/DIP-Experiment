@@ -28,4 +28,10 @@ desktop.ini
 *.pth
 *.tar.gz
 Data/
+# === 大文件与数据集 ===
+*.zip
+*.tar
+*.pkl
+Exp4/Segmentation/
+Exp4/图像分割-智能图像处理.zip
 # sync repository state
